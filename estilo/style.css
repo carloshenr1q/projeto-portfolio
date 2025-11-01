@@ -118,6 +118,7 @@ main > section.ficha > h1{
 }
 main > section.ficha > p{
     color: var(--color6);
+    transition: all .5s ease-in-out;
 }
 main > section.ficha > div.link{
     width: 180px;
